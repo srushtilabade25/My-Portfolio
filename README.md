@@ -65,3 +65,8 @@ CSS Flexbox and media queries are used to ensure responsiveness.
    ```bash
   git clone https://github.com/srushtilabade25/My-Portfolio.git
 
+## 🔗 Live Website
+
+[View My Portfolio](https://my-portfolio-mqtnvdp8v-srushti-labades-projects.vercel.app)
+
+
